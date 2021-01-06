@@ -9,6 +9,10 @@ h1
 {
     font-size: 50px;
 }
+.h2
+{
+    text-align: center;
+}
 .name-highlight
 {
     color: orange;
@@ -24,11 +28,6 @@ h1
 {
     width:100%;
 }
-.top-background
-{
-    background-repeat: no-repeat;
-    background-color: white;
-}
 section
 {
     height:600px;
@@ -40,5 +39,9 @@ section
     padding:25px 60px;
     border-radius: 10px;
     color :white;
-    font-weight: 700px;;
+    font-weight: 700px;
+}
+.mid
+{
+    background-color: whitesmoke;
 }
