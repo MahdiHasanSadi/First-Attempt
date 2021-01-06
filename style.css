@@ -1,0 +1,33 @@
+body
+{
+    margin:0;
+    font-family: 'Roboto', sans-serif;
+}
+h1
+{
+    font-size: 70px;
+}
+.name-highlight
+{
+    color: orange;
+}
+.first-half
+{
+    width:40%;
+    float:left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.first-half img
+{
+    width:100%;
+}
+.top-background
+{
+    background-repeat: no-repeat;
+    background-color: white;
+}
+section
+{
+    height:600px;
+}
