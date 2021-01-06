@@ -44,4 +44,14 @@ section
 .mid
 {
     background-color: whitesmoke;
+    text-decoration: none; 
+    background-color:rgb(247, 101, 75);
+    padding:25px 60px;
+    border-radius: 10px;
+    color :white;
+    font-weight: 700px;
+}
+.image
+{
+    
 }
